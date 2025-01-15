@@ -1,0 +1,18 @@
+[
+    {
+      "role": "NIET",
+      "organisation": "India",
+      "startDate": "2014",
+      "endDate": "2018",
+      "experiences": ["Electronics and Communication Engineering"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Presentation Convent School",
+      "organisation": "India",
+      "startDate": "2010",
+      "endDate": "2014",
+      "experiences": ["High School","Higher secondary"],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]
